@@ -57,7 +57,7 @@
 </head>
 <body>
     <header>
-        <h1>Christopher Baird</h1>
+        <h1>Chris B.</h1>
         <p>Investor | Technologist | Crypto Enthusiast</p>
     </header>
     <nav>
@@ -67,7 +67,7 @@
     <div class="container">
         <section id="about" class="about">
             <h2>About Me</h2>
-            <p>Hello! I'm Christopher, an avid investor with a deep passion for technology and the world of cryptocurrency. My journey in investing has been driven by a keen interest in emerging technologies and their potential to revolutionize various industries. I thrive on exploring new tech trends and leveraging them for innovative investment opportunities.</p>
+            <p>Hello! I'm Chris, an avid investor with a deep passion for technology and the world of cryptocurrency. My journey in investing has been driven by a keen interest in emerging technologies and their potential to revolutionize various industries. I thrive on exploring new tech trends and leveraging them for innovative investment opportunities.</p>
         </section>
         <section id="contact" class="contact">
             <h2>Contact Information</h2>
@@ -75,12 +75,12 @@
             <ul>
                 <li>Email: <a href="mailto:chris@example.com">chris@example.com</a></li>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/christopher-baird" target="_blank">Christopher Baird</a></li>
-                <li>Twitter: <a href="https://twitter.com/chris_baird" target="_blank">@chris_baird</a></li>
+                <li>Twitter: <a href="https://twitter.com/chris_b" target="_blank">@chris_b</a></li>
             </ul>
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Christopher Baird. All rights reserved.</p>
+        <p>&copy; 2024 Chris B. All rights reserved.</p>
     </footer>
 </body>
 </html>
