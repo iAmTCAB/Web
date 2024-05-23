@@ -74,7 +74,7 @@
             <p>If you'd like to get in touch, please reach out to me through the following channels:</p>
             <ul>
                 <li>Email: <a href="mailto:chris@example.com">chris@example.com</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/christopher-baird" target="_blank">Christopher Baird</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/christopher-baird" target="_blank">Chris B</a></li>
                 <li>Twitter: <a href="https://twitter.com/chris_b" target="_blank">@chris_b</a></li>
             </ul>
         </section>
